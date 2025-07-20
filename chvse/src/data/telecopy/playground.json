@@ -1,0 +1,127 @@
+{
+    "sources": [
+                    {
+                        "source_id":   1001148657476,
+                        "listener": "SEXY GIFS",
+                        "controls": {
+                            "clean_links": true,
+                            "delete_links": true
+                        },
+                        "reply_markup":{
+                            "label":"dating_label",
+                            "link":"dating"
+                        }
+                    },
+                    {
+                        "source_id": 1001780795017,
+                        "listener": "test",
+                        "controls": {
+                            "clean_links": false,
+                            "delete_links": false
+                        },
+                        "reply_markup":{
+                            "label":"bundle_label",
+                            "link":"bundle"
+                        }
+                    },
+                    {
+                        "source_id": 1001163525014,
+                        "listener": "top models",
+                        "controls": {
+                            "clean_links": false,
+                            "delete_links": false
+                        },
+                        "reply_markup":{
+                            "label":"dating_label",
+                            "link":"dating"
+                        }
+                    },
+                    {
+                        "source_id": 1001919682873,
+                        "listener": "mouth love",
+                        "controls": {
+                            "clean_links": false,
+                            "delete_links": true
+                        },
+                        "reply_markup":{
+                            "label":"cams_label",
+                            "link":"cams"
+                        }
+                    },
+                    {
+                        "source_id": 1001544839418,
+                        "listener": "tight assholes",
+                        "controls": {
+                            "clean_links": false,
+                            "delete_links": true
+                        },
+                        "reply_markup":{
+                            "label":"dating_label",
+                            "link":"dating"
+                        }
+                    },
+                    {
+                        "source_id": 1001744440522,
+                        "listener": "horny onlyfans",
+                        "controls": {
+                            "clean_links": false,
+                            "delete_links": true
+                        },
+                        "reply_markup":{
+                            "label":"cams_label",
+                            "link":"cams"
+                        }
+                    },
+                    {
+                        "source_id": 1001365266411,
+                        "listener": "oasis69",
+                        "controls": {
+                            "clean_links": false,
+                            "delete_links": true
+                        },
+                        "reply_markup":{
+                            "label":"dating_label",
+                            "link":"dating"
+                        }
+                    },
+                    {
+                        "source_id": 1001027179058,
+                        "listener": "squirt anal",
+                        "controls": {
+                            "clean_links": false,
+                            "delete_links": true
+                        },
+                        "reply_markup":{
+                            "label":"dating_label",
+                            "link":"dating"
+                        }
+                    },
+                    {
+                        "source_id": 1001091591879,
+                        "listener": "japanese",
+                        "controls": {
+                            "clean_links": false,
+                            "delete_links": true
+                        },
+                        "reply_markup":{
+                            "label":"dating_label",
+                            "link":"dating"
+                        }
+                    },
+                    {
+                        "source_id": 1001274823040,
+                        "listener": "cumshot",
+                        "controls": {
+                            "clean_links": false,
+                            "delete_links": true
+                        },
+                        "reply_markup":{
+                            "label":"dating_label",
+                            "link":"dating"
+                        }
+                    }
+                ],
+    "chat_id": "-1001945377788",
+    "status": false,
+    "title": "playground"
+}

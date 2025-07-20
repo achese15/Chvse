@@ -1,0 +1,23 @@
+{
+    "reddit_clients": {
+        "jnkyrd": {
+            "sources": ["collegesluts", "ebonythroatqueens", "VideosFromPornhub", "SexInFrontOfOthers", "homesex","doublepenetration", "BreedingMaterial"],
+            "subreddit": "jnkyrd",
+            "reply": "JOIN OUR NSFW DISCORD FOR MORE https://discord.gg/DhcQBE4m"
+        }
+    },
+    "telegram_clients": {
+    },
+    "twitter":{
+        "consumer_key": "ZAQLcv8rRCn1AhcOtQ6rH40CF",
+        "consumer_secret": "esPoQI4O3lZWF4OPBf3LoLZXYLIAvCxDSZ7r6FBNLtnIWDdYQE",
+        "access_token": "1628770929772838917-GHohOHC1nxbitrfPoaLioYVpDBqw9b",
+        "access_token_secret": "qCHd4ZV1it0Iq7po6y5jllSE0FR999Fi2HnY8fXBJMoV0"
+    },
+    "telecopy":{
+        "apiId":17747618,
+        "apiHash":"a61e7b1b2b95bafd68a04b4e1064ffa4",
+        "stringSession":"1BAAOMTQ5LjE1NC4xNjcuOTEAUA+RZXoTKecRK8XZN6yGEIiCaI8QAOIetha4yDfaePd92xS0uvZb6DHf7+oiOA1fz2VVnEQXARFoTnuWRCZRZfJb4KSkFvdHxZpENu6a/nrLDq3g/n8PCdfv6ggqJ4KgBNrlDbry2kGFitxzj8fBgo8wIBucgklw44rSbBXp2D0/VID7Ejll5YVcCb2jDUasQ4/RCx0ZDSpxlAY32aeIvubofNvBxLUGwocucAARWxYG1PK67PaHadTDGE6d99fcEgRdJCdF/cfBhRzTQUORW49wkla6Tuyjg1raCtaSXQthLN2GjeJBTfDN5EyWYuTxk5fRftPWjBkCUTASiUDd3m0=",
+        "botSession":"1BAAOMTQ5LjE1NC4xNjcuOTEAULc5dpJ1GNIZ8UswIm3nwXtEF8Igs7ZfbDhjpbtxCSGGmxKrqomxfEWkWYp1pAuOaQh7RvOUgl3RSZltDAJNUJgRt17NfN5eAgnvKfCZJ1KoOR9rgsRtdaxj7Qg/wAiTPSBRumMHrezucCbavCT10y/hvEoL/M0U4F3okn3M+Bw9v2BJ4CKVgKa+o2h8ahtCoQkWXisQCWRlEf9ZAUBH0EwhNnyX1C3A5UMNuagb8R8vDtNpG1ZXQiR6Bv8/9bzNyfL+Mn0d7rfUnYwJ8urvgVP6reK5+fgdKeHDFo5z52RWJqoiN/WsqHfoiYKByMNOvKj61ua3FRYkPywHWdMHIxE="
+    }
+}
